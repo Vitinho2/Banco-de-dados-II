@@ -1,2 +1,2 @@
-# Banco-de-dados-II
+# Banco-de-dados-II- 2023- 2º Bimestre
 Scripts desenvolvidos nas aula de BD II.
